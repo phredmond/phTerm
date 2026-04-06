@@ -1,0 +1,7 @@
+.{
+    .name = .phterm,
+    .fingerprint = 0x97e9a87fbb5fdf81,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.14.0",
+    .paths = .{"."},
+}
